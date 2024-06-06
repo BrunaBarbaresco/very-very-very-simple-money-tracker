@@ -16,6 +16,14 @@ h1 {
   color: #ffffff;
   text-align: center;
   margin: 0;
+  font-size: 2rem;
+}
+
+h1 span {
+  font-size: 0.5rem;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 8px;
 }
 
 form {
